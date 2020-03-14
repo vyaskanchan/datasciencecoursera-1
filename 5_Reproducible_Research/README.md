@@ -17,7 +17,7 @@ Quiz # | Link
 FirstName | LastName | Email
 --- | --- | ---
 Michael |  Galarnyk |  <mgalarny@gmail.com>
-Submit |  Pull Request | <youremailhere@gmail.com>
+Submit |  Pull Request | <youremailhere@gmail.com> 
 
 ## Blog Posts on the Specialization | John Hopkins Coursera
 
